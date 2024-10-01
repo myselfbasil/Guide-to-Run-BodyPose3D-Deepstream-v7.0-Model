@@ -145,7 +145,12 @@ $ ./deepstream-pose-estimation-app --input rtsp://admin:admin@192.168.1.11:1935
 ```
 
 There you go! Now you can see the model running live on your IP cam feed.
+---
 
-You can view my docker hub documentation here: 
+**Made with 🫶🏻 by Basil**
 
-[hub.docker.com](https://hub.docker.com/repository/docker/basilshaji32/deepstream-bodypose3d/general)
+You can view my docker hub documentation here: [hub.docker.com](https://hub.docker.com/repository/docker/basilshaji32/deepstream-bodypose3d/general)
+
+Check out my medium guide here: [medium.com](https://medium.com/@basilshaji32/guide-to-run-bodypose3d-deepstream-v7-0-model-abafad03860e)
+
+You can go through my notion website: [notion.com](https://basilshaji.notion.site/Bounding-Box-Image-Augmentation-Using-the-Albumentations-Library-for-the-KITTI-Dataset-60ccfe6b93db42c581519ae5044c30f5?pvs=4)

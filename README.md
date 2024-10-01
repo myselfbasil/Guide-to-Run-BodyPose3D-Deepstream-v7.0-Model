@@ -1,3 +1,13 @@
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="https://github.com/myselfbasil/Guide-to-Run-BodyPose3D-Deepstream-v7.0-Model/blob/034c29c2a8cc384b64f4dc02c92df09527bdce0e/assets/header_img.png"
+      >
+    </a>
+  </p>
+</div>
 # Guide to Run BodyPose3D Deepstream v7.0 Model
 
 Reference Docs:
